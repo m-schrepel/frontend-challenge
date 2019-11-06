@@ -1,9 +1,7 @@
 # Take-home coding challenge for frontend interviews at Tradeshift
----
 You will need to request an [API key](http://api.bart.gov/api/register.aspx) before starting. The process is fast and automated. If you don't receive the key quickly, check your spam folder.
 
 ## Project
----
 We would like you to develop an application that displays information about BART stations using the [BART API](https://api.bart.gov).
 
 This application should have the following features
@@ -19,7 +17,6 @@ This application should have the following features
 - [ ] It should have some meaningful tests
 
 ## Things to know
----
 We have provided a scaffold from `create-react-app` to get started with. If you would like to use any other framework, please feel free to do so.
 
 We expect you can start the app with `npm start` and run tests with `npm test` (or `yarn`).
