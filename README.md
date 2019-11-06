@@ -9,7 +9,7 @@ This application should have the following features
 - [ ] Display the full name of the selected station
 - [ ] Display the routes this station has access to (Pittsburg / Bay point line, Richmond line, etc.)
 - [ ] Display whether the station has parking, bike racks, or lockers
-- [ ] Show the arriving and departing trains with their respective times to do so at this station
+- [ ] Show the arriving and departing trains with their respective times until arrival / departure for the selected station
 - [ ] Show the route these trains are on
 - [ ] Show the number of cars for the arriving / departing trains
 - [ ] Indicate which direction these trains are going in
