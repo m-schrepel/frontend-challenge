@@ -17,7 +17,9 @@ This application should have the following features
 - [ ] It should have some meaningful tests
 
 ## Things to know
-We have provided a scaffold from `create-react-app` to get started with. If you would like to use any other framework, please feel free to do so.
+We have provided a scaffold from [create-react-app](https://create-react-app.dev/) to get started with. If you would like to use any other framework, please feel free to do so.
+
+Pretend this is production code and as such feel free to modify the file structure and add whatever packages you would like.
 
 We expect you can start the app with `npm start` and run tests with `npm test` (or `yarn`).
 
